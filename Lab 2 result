@@ -1,0 +1,17 @@
+Boxed Values:
+Integer Object: 10
+Double Object: 20.5
+Character Object: A
+Auto-boxed Integer: 15
+Auto-boxed Double: 30.75
+Auto-boxed Character: B
+
+Unboxed Values:
+Primitive int: 10
+Primitive double: 20.5
+Primitive char: A
+Auto-unboxed int: 15
+Auto-unboxed double: 30.75
+Auto-unboxed char: B
+
+Process finished with exit code 0
