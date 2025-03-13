@@ -1,0 +1,17 @@
+Welcome to the gym
+Enter number of members:
+1
+Enter your name
+Rishi
+Enter your age:
+699
+Enter your membership Status:
+True
+Enter your membership duration:
+100
+Name: Rishi
+Age: 699
+Status: true
+Gym fee is Rs100000 for 100 months
+
+Process finished with exit code 0
