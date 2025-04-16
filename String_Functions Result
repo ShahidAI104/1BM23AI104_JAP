@@ -1,0 +1,11 @@
+String comparison:
+Are the strings equal?false
+
+String copy:
+Original string:Copy me!
+Copied string:Copy me!
+
+String concatenation:
+Concatenated string: Hello, world!
+
+Process finished with exit code 0
