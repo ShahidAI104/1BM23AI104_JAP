@@ -1,0 +1,8 @@
+Capacity of StringBuffer object sb1:16
+Capacity of StringBuffer object sb2:21
+Enter a string: 2 4 5 7 5 8
+Reversed string in uppercase:8 5 7 5 4 2
+Enter a string to append:1 4 6 7 9 5
+String after appending:8 5 7 5 4 21 4 6 7 9 5
+
+Process finished with exit code 0
