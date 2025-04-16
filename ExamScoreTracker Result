@@ -1,0 +1,16 @@
+Enter the exam scores for each student:
+Enter score for student 1
+90
+Enter score for student 2
+89
+Enter score for student 3
+80
+Enter score for student 4
+91
+Enter score for student 5
+96
+Exam score statistics
+Sum of all scores 446
+Highest Score 96
+
+Process finished with exit code 0
