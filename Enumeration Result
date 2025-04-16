@@ -1,0 +1,9 @@
+Is Monday a workday? true
+Is Tuesday a workday? true
+Is Wednesday a workday? true
+Is Thursday a workday? true
+Is Friday a workday? true
+Is Saturday a workday? false
+Is Sunday a workday? false
+
+Process finished with exit code 0
