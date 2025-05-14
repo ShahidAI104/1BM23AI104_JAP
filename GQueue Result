@@ -1,0 +1,8 @@
+Elements in the queue are:
+10
+20
+30
+null
+Dequeued element: 10
+
+Process finished with exit code 0
